@@ -93,13 +93,13 @@ x = 2 ^ 3
 y :: Float
 y = 2.0 ^ 3
 
-a :: ?
+a :: Integer
 a = x + 5
 
-b :: ?
+b :: Double
 b = y/2
 
-c :: ?
+c :: Integer
 c = y `div` 3
 
 -}
