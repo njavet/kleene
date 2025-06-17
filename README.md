@@ -1,2 +1,4 @@
 # kleene
-Haskell implementation of bushido parsing logic 
+
+currently just a haskell playground repo.
+
