@@ -1,19 +1,3 @@
-{- Contents
-    A short introduction to Haskell;
-    On how to create your own types
--}
-
-{- Preliminary Remark
-    There are several different Keywords to declare new 
-    types ('data', 'newtype', 'type'). We will discuss the
-    difference of these keywords and when to use
-    which later.    
--}
-
------------------------------------------------------------
--- Product Types
------------------------------------------------------------
-
 {- Records
     Records are tuples with custom named fields and a 
     constructor.
